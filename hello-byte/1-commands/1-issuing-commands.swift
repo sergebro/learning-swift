@@ -1,0 +1,4 @@
+while !isOnGem {
+    moveForward()
+}
+collectGem()
