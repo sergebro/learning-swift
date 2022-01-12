@@ -1,0 +1,4 @@
+while !isOnOpenSwitch {
+    toggleSwitch()
+    moveForward()
+}
